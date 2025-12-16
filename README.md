@@ -1,6 +1,7 @@
 # React + Vite
 
 ejecutar los siguientes comandos para iniciar:
-cd mytinerary-YoxtaltepetlMartinez
+cd myItinerayFront
 npm install
 npm run dev
+
